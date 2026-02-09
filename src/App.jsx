@@ -37,7 +37,7 @@ export default function App() {
         height: "100vh",
         overflow: "hidden",
         position: "relative",
-        fontFamily: "'DM Sans', sans-serif",
+        fontFamily: "'Space Grotesk', sans-serif",
       }}
     >
       {/* Dynamic canvas background */}

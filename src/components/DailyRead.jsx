@@ -39,7 +39,7 @@ export default function DailyRead() {
           <div
             style={{
               fontSize: "11px",
-              fontFamily: "'DM Sans', sans-serif",
+              fontFamily: "'Space Grotesk', sans-serif",
               fontWeight: 400,
               ...adaptiveTextMuted,
             }}
@@ -68,7 +68,7 @@ export default function DailyRead() {
           style={{
             fontSize: "13px",
             lineHeight: 1.6,
-            fontFamily: "'DM Sans', sans-serif",
+            fontFamily: "'Space Grotesk', sans-serif",
             fontWeight: 400,
             marginBottom: "14px",
             ...adaptiveTextMuted,
@@ -98,17 +98,16 @@ export default function DailyRead() {
             style={{
               fontSize: "9px",
               fontWeight: 700,
-              padding: "3px 10px",
+              padding: "4px 12px",
               borderRadius: "20px",
-              background: `${R.red}20`,
-              color: R.red,
+              background: R.red,
+              color: "#fff",
               fontFamily: "'DM Mono', monospace",
               textTransform: "uppercase",
               letterSpacing: "0.5px",
-              backdropFilter: "blur(8px)",
             }}
           >
-            Read &rarr;
+            3 min read &rarr;
           </div>
         </div>
       </div>
@@ -236,7 +235,7 @@ export default function DailyRead() {
                   style={{
                     fontSize: "15px",
                     lineHeight: 1.75,
-                    fontFamily: "'DM Sans', sans-serif",
+                    fontFamily: "'Space Grotesk', sans-serif",
                     color: R.textLight,
                     margin: "0 0 18px 0",
                     fontWeight: para.startsWith("\u201C") ? 600 : 400,

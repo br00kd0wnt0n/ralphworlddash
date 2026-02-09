@@ -48,7 +48,7 @@ export default function SignalFooter() {
               style={{
                 fontSize: "10px",
                 fontWeight: 600,
-                fontFamily: "'DM Sans', sans-serif",
+                fontFamily: "'Space Grotesk', sans-serif",
                 ...adaptiveText,
               }}
             >

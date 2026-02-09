@@ -89,7 +89,7 @@ export default function InnovationLab() {
               style={{
                 fontSize: "16px",
                 fontWeight: 800,
-                fontFamily: "'DM Sans', sans-serif",
+                fontFamily: "'Space Grotesk', sans-serif",
                 letterSpacing: "-0.3px",
                 ...adaptiveText,
               }}
@@ -99,7 +99,7 @@ export default function InnovationLab() {
             <div
               style={{
                 fontSize: "11px",
-                fontFamily: "'DM Sans', sans-serif",
+                fontFamily: "'Space Grotesk', sans-serif",
                 lineHeight: 1.4,
                 marginTop: "2px",
                 ...adaptiveTextMuted,

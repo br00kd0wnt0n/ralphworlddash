@@ -70,7 +70,7 @@ export default function FromArchive({ onSelect }) {
             style={{
               fontSize: "13px",
               fontWeight: 700,
-              fontFamily: "'DM Sans', sans-serif",
+              fontFamily: "'Space Grotesk', sans-serif",
               lineHeight: 1.3,
               ...adaptiveText,
             }}

@@ -32,7 +32,7 @@ export default function Ticker() {
             key={i}
             style={{
               fontSize: "11px",
-              fontFamily: "'DM Sans', sans-serif",
+              fontFamily: "'Space Grotesk', sans-serif",
               fontWeight: 500,
               ...adaptiveText,
             }}

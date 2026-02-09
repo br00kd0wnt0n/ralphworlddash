@@ -27,7 +27,7 @@ export default function ListenButton() {
           style={{
             fontSize: "10px",
             lineHeight: 1.4,
-            fontFamily: "'DM Sans', sans-serif",
+            fontFamily: "'Space Grotesk', sans-serif",
             marginTop: "4px",
             ...adaptiveTextMuted,
           }}
@@ -105,7 +105,7 @@ export default function ListenButton() {
             style={{
               fontSize: "13px",
               fontWeight: 700,
-              fontFamily: "'DM Sans', sans-serif",
+              fontFamily: "'Space Grotesk', sans-serif",
               ...(state === "playing" ? { color: R.blue } : adaptiveText),
             }}
           >

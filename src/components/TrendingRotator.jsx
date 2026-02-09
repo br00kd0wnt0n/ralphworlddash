@@ -53,7 +53,7 @@ export default function TrendingRotator() {
             style={{
               fontSize: "12px",
               fontWeight: 700,
-              fontFamily: "'DM Sans', sans-serif",
+              fontFamily: "'Space Grotesk', sans-serif",
               ...adaptiveText,
             }}
           >
@@ -77,7 +77,7 @@ export default function TrendingRotator() {
           style={{
             fontSize: "15px",
             fontWeight: 800,
-            fontFamily: "'DM Sans', sans-serif",
+            fontFamily: "'Space Grotesk', sans-serif",
             lineHeight: 1.25,
             marginBottom: "6px",
             ...adaptiveText,
@@ -89,7 +89,7 @@ export default function TrendingRotator() {
           style={{
             fontSize: "11px",
             lineHeight: 1.5,
-            fontFamily: "'DM Sans', sans-serif",
+            fontFamily: "'Space Grotesk', sans-serif",
             ...adaptiveTextMuted,
           }}
         >

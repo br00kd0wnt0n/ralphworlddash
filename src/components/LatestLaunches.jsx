@@ -53,7 +53,7 @@ export default function LatestLaunches({ onSelect }) {
                 style={{
                   fontSize: "12px",
                   fontWeight: 700,
-                  fontFamily: "'DM Sans', sans-serif",
+                  fontFamily: "'Space Grotesk', sans-serif",
                   lineHeight: 1.25,
                   ...adaptiveText,
                 }}

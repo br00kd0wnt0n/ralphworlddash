@@ -72,7 +72,7 @@ export default function Overlay({ item, onClose }) {
                     fontSize: "20px",
                     fontWeight: 800,
                     color: R.text,
-                    fontFamily: "'DM Sans', sans-serif",
+                    fontFamily: "'Space Grotesk', sans-serif",
                     lineHeight: 1.2,
                   }}
                 >
@@ -167,7 +167,7 @@ export default function Overlay({ item, onClose }) {
                 fontSize: "15px",
                 color: R.textLight,
                 lineHeight: 1.65,
-                fontFamily: "'DM Sans', sans-serif",
+                fontFamily: "'Space Grotesk', sans-serif",
                 marginBottom: "20px",
               }}
             >

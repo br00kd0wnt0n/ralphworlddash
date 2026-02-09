@@ -13,7 +13,7 @@ export default function IndustryPulse() {
           style={{
             fontSize: "10px",
             lineHeight: 1.4,
-            fontFamily: "'DM Sans', sans-serif",
+            fontFamily: "'Space Grotesk', sans-serif",
             marginTop: "4px",
             ...adaptiveTextMuted,
           }}
@@ -49,7 +49,7 @@ export default function IndustryPulse() {
                   fontSize: "18px",
                   fontWeight: 800,
                   color: d.color,
-                  fontFamily: "'DM Sans', sans-serif",
+                  fontFamily: "'Space Grotesk', sans-serif",
                 }}
               >
                 {d.value}
@@ -58,7 +58,7 @@ export default function IndustryPulse() {
                 style={{
                   fontSize: "10px",
                   fontWeight: 600,
-                  fontFamily: "'DM Sans', sans-serif",
+                  fontFamily: "'Space Grotesk', sans-serif",
                   marginTop: "1px",
                   ...adaptiveText,
                 }}
