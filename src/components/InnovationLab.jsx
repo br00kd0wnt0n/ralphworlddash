@@ -88,8 +88,9 @@ export default function InnovationLab() {
             <div
               style={{
                 fontSize: "16px",
-                fontWeight: 800,
-                fontFamily: "'Space Grotesk', sans-serif",
+                fontWeight: 900,
+                fontFamily: "'Fraunces', serif",
+                fontVariationSettings: "'WONK' 1, 'opsz' 72",
                 letterSpacing: "-0.3px",
                 ...adaptiveText,
               }}

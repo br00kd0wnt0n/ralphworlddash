@@ -52,10 +52,11 @@ export default function DailyRead() {
         <div
           style={{
             fontSize: "28px",
-            lineHeight: 1.2,
-            fontWeight: 800,
-            fontFamily: "Georgia, serif",
-            letterSpacing: "-0.5px",
+            lineHeight: 1.15,
+            fontWeight: 900,
+            fontFamily: "'Fraunces', serif",
+            fontVariationSettings: "'WONK' 1, 'opsz' 72",
+            letterSpacing: "-0.3px",
             marginBottom: "12px",
             ...adaptiveText,
           }}
@@ -205,10 +206,11 @@ export default function DailyRead() {
               <div
                 style={{
                   fontSize: "32px",
-                  lineHeight: 1.2,
-                  fontWeight: 800,
-                  fontFamily: "Georgia, serif",
-                  letterSpacing: "-0.5px",
+                  lineHeight: 1.15,
+                  fontWeight: 900,
+                  fontFamily: "'Fraunces', serif",
+                  fontVariationSettings: "'WONK' 1, 'opsz' 72",
+                  letterSpacing: "-0.3px",
                   color: R.text,
                   marginBottom: "8px",
                 }}
