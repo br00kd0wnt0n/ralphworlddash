@@ -3,3 +3,5 @@ dist
 .env
 .env.local
 .DS_Store
+ralph-world-v4.jsx
+ralph-world-live.tar.gz
